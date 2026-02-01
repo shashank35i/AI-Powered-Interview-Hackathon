@@ -7,7 +7,7 @@ A comprehensive AI interviewer platform that simulates real-world interviews, ev
 
 <br/>
 
-<a href="https://ot2udd4lycxiu.ok.kimi.link/https://ot2udd4lycxiu.ok.kimi.link/"><b>🌐 Live Demo Website</b></a>
+<a href="https://ot2udd4lycxiu.ok.kimi.link"><b>🌐 Live Demo Website</b></a>
 
 <br/><br/>
 
