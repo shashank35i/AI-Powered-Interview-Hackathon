@@ -32,12 +32,7 @@ A comprehensive AI interviewer platform that simulates real-world interviews, ev
 - 🎨 **Modern UI** — Responsive design for all devices  
 - 🐳 **Docker Ready** — One-command deployment  
 
-**Get Started:**
-- **Local Dev:** [WEB_APP_SETUP.md](WEB_APP_SETUP.md)  
-- **Production:** [PRODUCTION_GUIDE.md](PRODUCTION_GUIDE.md)  
-- **Launch Ready:** [LAUNCH_CHECKLIST.md](LAUNCH_CHECKLIST.md)  
 
----
 
 ## 📌 Table of Contents
 - [🎯 Key Capabilities](#-key-capabilities)
