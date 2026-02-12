@@ -23,12 +23,7 @@ A comprehensive AI interviewer platform that simulates real-world interviews, ev
 
 ---
 
-## 📽️ Demo Video (Mandatory Submission)
-> Add your screen-recording video link below (YouTube / Drive).
 
-✅ **Screen Recording:** *(paste link here)*
-
----
 
 ## ⚡ Quick Start
 - 🚀 **Production Ready** — Fully deployed as a **React + FastAPI** web app  
